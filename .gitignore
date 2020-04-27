@@ -1,0 +1,8 @@
+.qmake.stash
+Makefile
+*.pro.user
+/serialplot
+*.o
+moc_*.cpp
+moc_*.h
+ui_*.h
